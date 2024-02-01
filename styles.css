@@ -75,7 +75,7 @@ body {
 }
 
 .hover:hover {
-  color: cyan;
+  color: cyan !important;
 }
 
 .eye-img {
@@ -112,7 +112,7 @@ body {
   opacity: 0.5;
 }
 
-a {
-  text-decoration: none;
-  color: white;
+p a {
+  text-decoration: none !important;
+  color: white !important;
 }/*# sourceMappingURL=styles.css.map */
